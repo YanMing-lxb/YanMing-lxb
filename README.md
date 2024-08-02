@@ -19,7 +19,7 @@ https://anuraghazra.github.io"> width="80%" alt="Hello, I'm Anurag. I do open so
 
 ## Github Stats
 
-| <a href="https://github.com/YanMing-lxb"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YanMing-lxb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="YanMing-lxb's github stats" /></a> | <a href="https://github.com/YanMing-lxb"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMing-lxb&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/YanMing-lxb"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YanMing-lxb&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true" alt="YanMing-lxb's github stats" /></a> | <a href="https://github.com/YanMing-lxb"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMing-lxb&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
