@@ -36,6 +36,4 @@ https://github.com/YanMing-lxb">
 </a>
 -->
 
-## Wakatime Stats
 
-![焱铭's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YanMing&theme=buefy&hide_border=truet&range=last_year&layout=compact&langs_count=10&hide=Text,Other,Git%20Config,RPMSpec)
